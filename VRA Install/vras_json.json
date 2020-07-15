@@ -1,0 +1,24 @@
+{
+  "Hosts": [
+   {
+    "ESXiHostName": "HostName",
+    "DatastoreName": "DatastoreName",
+    "PortGroup": "PortGroupName",
+    "VRAGroup": "VRAGroupName",
+    "MemoryGB": "RAMinGB",
+    "DefaultGateway": "GatewayIP",
+    "SubnetMask": "SubnetMask",
+    "VRAIPAddress": "VRAStaticIP"
+   }, 
+   {
+    "ESXiHostName": "HostName",
+    "DatastoreName": "DatastoreName",
+    "PortGroup": "PortGroupName",
+    "VRAGroup": "VRAGroupName",
+    "MemoryGB": "RAMinGB",
+    "DefaultGateway": "GatewayIP",
+    "SubnetMask": "SubnetMask",
+    "VRAIPAddress": "VRAStaticIP"
+   }
+ ]
+}
